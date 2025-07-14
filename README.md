@@ -8,7 +8,7 @@ An e-commerce web application for browsing products, managing a shopping cart, a
 - Product listing with tags and search
 - Shopping cart functionality
 - Checkout and payment supporting
-- Admin dashboard for managing products 
+- Admin dashboard for managing products
 
 ## 🌐 Technologies used: 
 
@@ -28,9 +28,11 @@ Used for storing and managing application data.
 
 Before running the project do the following:
 
-OnlineShop\appsettings.json, Line 10 and Line 11, Change the Key and Secret to yours (more information on https://developer.paypal.com/home/)
-OnlineShop\Controllers\AccountController.cs, Line 162 and Line 168, Change the verification code sending email
-OnlineShop\Models\Db\OnlineShopContext.cs, Line 40, Change the server name to yours
+OnlineShop\appsettings.json, Line 10 and Line 11, Change the Key and Secret to yours (more information on https://developer.paypal.com/home/).
+
+OnlineShop\Controllers\AccountController.cs, Line 162 and Line 168, Change the verification code sending email.
+
+OnlineShop\Models\Db\OnlineShopContext.cs, Line 40, Change the server name to yours.
 
 ## 📄 License
 
